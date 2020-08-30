@@ -1,0 +1,4 @@
+PASSWORD = 'postgres'
+HOST = 'localhost'
+DB_PORT = 5432
+PORT = 8080
